@@ -5,4 +5,4 @@ This repository is a proof of concept project we did do display a big table that
 
 A working example can be seen here:
 
-[Ph of shampoos Database listthat shows pH balanced hair products, low ph hair shampoos, and neutral pH shampoos](https://www.botoxforhair.net/blog/shampoos-ph-levels-list-database/)
+[Ph of shampoos Database list that shows pH balanced hair products, low ph hair shampoos, and neutral pH shampoos](https://www.botoxforhair.net/blog/shampoos-ph-levels-list-database/)
